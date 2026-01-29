@@ -1,4 +1,4 @@
-/*
+'''
 12. Integer to Roman
 Solved
 Medium
@@ -65,7 +65,7 @@ Explanation:
 Constraints:
 
 1 <= num <= 3999
-*/
+'''
 
 class Solution:
     def intToRoman(self, num: int) -> str:
